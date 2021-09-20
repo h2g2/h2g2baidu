@@ -1,0 +1,3 @@
+# Submit h2g2 urls to baidu at 1 a.m. everyday
+0 1 * * * cd ~/h2g2baidu && make >> cronjob.log
+
